@@ -1,7 +1,7 @@
 # Python package template (ppt)
 
 
-
+Development on hold due to lack of time
 For the documentation of the library check [here](https://github.com/Disk-MTH/Python-package-template/blob/master/diskmth/README.md).
 
 
